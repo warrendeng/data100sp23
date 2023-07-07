@@ -19,4 +19,3 @@ git push              # pushes local branch to remote branch
 #### Note to future semesters:
 
 When replicating this repo for future semesters, simply create a new repo in DS-100 and select `import`.  
-# data100sp23
